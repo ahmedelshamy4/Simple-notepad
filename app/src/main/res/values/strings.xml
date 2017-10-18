@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleNodePade</string>
+    <string name="action_settings">+</string>
+    <string name="title_activity_edit_node_pade">Edit_node_pade</string>
+</resources>
